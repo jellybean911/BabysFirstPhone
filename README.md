@@ -10,3 +10,4 @@ The Baby’s First Phone is an Android app designed for young kids who cannot re
 - Low cost!  
 - *So easy even a baby can use it!*
 ****
+<img alt="Android" src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" /><img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white"/>
